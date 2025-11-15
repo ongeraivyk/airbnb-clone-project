@@ -229,7 +229,7 @@ A review belongs to one property and one user (guest).
 
 A property can have multiple reviews.
 
-## Feature Break down
+## Feature Breakdown
 🎯 Objective:
 
 Detail the main features of the Airbnb Clone Project and explain how each feature contributes to the platform’s functionality and user experience.
