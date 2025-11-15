@@ -276,7 +276,7 @@ Sends automated notifications (via email or in-app alerts) to users about bookin
 
 All features are built using a modular API structure via GraphQL, allowing flexible data queries and improved performance. The backend can easily integrate with future frontend frameworks like React or Vue.js for full-stack deployment.
 
-## Api Security
+## API Security
 Ensuring robust API security is critical in the Airbnb Clone Project to protect sensitive user data, prevent unauthorized access, and maintain the integrity of the platform. The following key security measures will be implemented:
 
 🔐 1. Authentication
